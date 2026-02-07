@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I’m RolBitDev
 
-<!--
-**RolbitDev/RolbitDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer & QA with a strong focus on building practical, testable applications.
 
-Here are some ideas to get you started:
+## 🧠 What I do
+- Develop web and app solutions using .NET and modern frameworks
+- Apply QA and testing principles to improve reliability and usability
+- Work on real-world projects from idea to deployment
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Focus
+- Software Development (.NET, Web Apps)
+- QA & Testing (manual testing, validation, edge cases)
+- Problem solving & continuous improvement
+
+## 📂 Projects
+Here you’ll find a collection of personal, academic, and experimental projects, including:
+- Web applications
+- Dashboards & tools
+- Testing-focused implementations
+
+## 📫 Get in touch
+- GitHub: https://github.com/RolbitDev
