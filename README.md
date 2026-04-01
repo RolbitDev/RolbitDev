@@ -1,22 +1,35 @@
-# 👋 Hi, I’m RolBitDev
+# 👋 Hi, I'm RolBitDev
 
-Software Developer & QA with a strong focus on building practical, testable applications.
+**Junior Software Developer** focused on building practical, well-structured applications using .NET and modern web technologies.
 
-## 🧠 What I do
-- Develop web and app solutions using .NET and modern frameworks
-- Apply QA and testing principles to improve reliability and usability
-- Work on real-world projects from idea to deployment
+---
 
-## 🛠️ Skills & Focus
-- Software Development (.NET, Web Apps)
-- QA & Testing (manual testing, validation, edge cases)
-- Problem solving & continuous improvement
+## 🛠 What I Build
 
-## 📂 Projects
-Here you’ll find a collection of personal, academic, and experimental projects, including:
-- Web applications
-- Dashboards & tools
-- Testing-focused implementations
+- Backend systems with **C#, ASP.NET Core MVC, Entity Framework Core**
+- Mobile apps with **React Native** and **TypeScript**
+- Web interfaces with **JavaScript, React, HTML/CSS**
+- Database-driven apps with **MySQL** and **SQL**
 
-## 📫 Get in touch
-- GitHub: https://github.com/RolbitDev
+## 🚀 Currently Learning
+
+Azure · Docker · Kubernetes · .NET 10
+
+---
+
+## 📌 Featured Projects
+
+| Project | Stack | Link |
+|---------|-------|------|
+| **ProfileTrust** | ASP.NET Core, C#, MySQL | [GitHub](https://github.com/RolbitDev/ProfileTrust) |
+| **CryptoDash** | React Native, TypeScript | [Play Store](https://play.google.com/store/apps/details?id=com.rolbitdev.cryptodash) |
+| **BreachLabs.tech** | HTML, CSS, PWA | [Live Site](https://breachlabs.tech) |
+| **DiceDuel-web** | JavaScript, Bootstrap | [Live](https://rolbitdev.github.io/DiceDuel-web/) |
+
+---
+
+## 📫 Contact
+
+- 🌐 [breachlabs.tech](https://breachlabs.tech)
+- 💼 [linkedin.com/in/roland82](https://www.linkedin.com/in/roland82)
+- 📧 RolandBanita@outlook.com
